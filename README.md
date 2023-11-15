@@ -16,7 +16,8 @@ telegram - t.me/tripleshizu
 
 # Пока
 
-![image](https://github.com/atorasi/InfarctGm/assets/121640832/b1c66b5e-777a-490a-8d79-87908bdd675e)
+![image](https://github.com/atorasi/InfarctGm/assets/121640832/f87c4255-3fac-4c29-9c70-0b61a10b34a6)
+
 
 
 ![image](https://github.com/atorasi/InfarctGm/assets/121640832/a7d993d8-d8af-4a02-b472-783f29e9bb05)
