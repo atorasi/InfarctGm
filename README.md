@@ -19,3 +19,4 @@ telegram - t.me/tripleshizu
 ![image](https://github.com/atorasi/InfarctGm/assets/121640832/b1c66b5e-777a-490a-8d79-87908bdd675e)
 
 
+![image](https://github.com/atorasi/InfarctGm/assets/121640832/a7d993d8-d8af-4a02-b472-783f29e9bb05)
