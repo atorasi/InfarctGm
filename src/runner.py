@@ -14,8 +14,8 @@ class Intrarct:
         self.proxy = proxy
         if proxy != None:
             self.proxy  = {
-                "http://": "http://",
-                "https://": "http://",
+                "http://": f"http://{self.proxy}",
+                "https://": f"http://{self.proxy}",
             }   
         
         self.w3 = AsyncWeb3()
